@@ -1,0 +1,6 @@
+*.hi
+*.o
+/history
+/xmonad.errors
+/xmonad-*
+.*.swp
